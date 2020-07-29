@@ -6,7 +6,7 @@ GitHub is where developers meet.
 - Follow phaze9.
 - Install the GitHub app.
 
-## Day 2: Fork SummerOfCode :fork_and_knife:
+## Day 2: Fork SummerOfCode :toilet:
 The GitHub website is great for small changes.
 - [Fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) the SummerOfCode project.
 - Edit the file README.md to improve the instructions for SummerOfCode. 
