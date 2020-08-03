@@ -9,7 +9,7 @@ If you get stuck: Ask Google, play around until it works, team up with a friend 
 ## [Week 1: Get Started](https://github.com/phaze9/SummerOfCode/blob/master/Week%201.md) :construction:
  - [Day 1: GitHub](https://github.com/phaze9/SummerOfCode/blob/master/Week%201.md#day-1-github-cat) :cat:
  - [Day 2: Fork SummerOfCode](https://github.com/phaze9/SummerOfCode/blob/master/Week%201.md#day-2-fork-summerofcode-fork_and_knife) :fork_and_knife:
- - [Day 3: VisualStudio Code](https://github.com/phaze9/SummerOfCode/blob/master/Week%201.mdday-3-visual-studio-code-floppy_disk) :floppy_disk:
+ - [Day 3: VisualStudio Code](https://github.com/phaze9/SummerOfCode/blob/master/Week%201.md#day-3-visual-studio-code-floppy_disk) :floppy_disk:
  - [Day 4: Terminal](https://github.com/phaze9/SummerOfCode/blob/master/Week%201.md#day-4-terminal-computer) :computer:
  - [Day 5: Sharpen your Tools](https://github.com/phaze9/SummerOfCode/blob/master/Week%201.md#day-5-sharpen-your-tools-key) :key:
  - [Day 6: Angular Heroes](https://github.com/phaze9/SummerOfCode/blob/master/Week%201.md#day-6-angular-heroes-ok_woman) :ok_woman:
@@ -35,3 +35,7 @@ If you get stuck: Ask Google, play around until it works, team up with a friend 
  
 ## [Week 4: Your Heroes on your Phone](https://github.com/phaze9/SummerOfCode/blob/master/Week%204.md) :iphone:
  - [Day 1: Go Mobile](https://github.com/phaze9/SummerOfCode/blob/master/Week%204.md#day-1-go-mobile-busstop) :busstop:
+ - [Day 2: Move your Heroes](https://github.com/phaze9/SummerOfCode/blob/master/Week%204.md#day-2-move-your-heroes-dash) :dash:
+ - [Day 3: Still Moving](https://github.com/phaze9/SummerOfCode/blob/master/Week%204.md#day-3-still-moving-sweat_smile) :sweat_smile:
+ - [Day 4: App User Interface](https://github.com/phaze9/SummerOfCode/blob/master/Week%204.md#day-4-app-user-interface-octocat) :octocat:
+ - [Day 5: Mobile List of Heroes](https://github.com/phaze9/SummerOfCode/blob/master/Week%204.md#day-5-mobile-list-of-heroes-scroll) :scroll:
